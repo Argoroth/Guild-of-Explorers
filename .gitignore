@@ -1,0 +1,7 @@
+Debug/
+bin/
+*.cbp
+*.depend
+*.layout
+personal/
+obj/
